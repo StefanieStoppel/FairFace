@@ -1,0 +1,50 @@
+name: FairFace
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - _libgcc_mutex
+  - blas
+  - ca-certificates
+  - certifi
+  - cudatoolkit=11.0
+  - freetype
+  - intel-openmp
+  - jpeg
+  - lcms2
+  - ld_impl_linux-64
+  - libedit
+  - libffi
+  - libgcc-ng
+  - libpng
+  - libstdcxx-ng
+  - libtiff
+  - libuv
+  - lz4-c
+  - mkl
+  - mkl-service
+  - mkl_fft
+  - mkl_random
+  - ncurses
+  - ninja
+  - numpy
+  - numpy-base
+  - olefile
+  - openssl
+  - pillow
+  - pip
+  - python
+  - pytorch
+  - readline
+  - setuptools
+  - six
+  - sqlite
+  - tk
+  - torchaudio
+  - torchvision
+  - typing_extensions
+  - wheel
+  - xz
+  - zlib
+  - zstd
+
