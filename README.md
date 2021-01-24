@@ -22,7 +22,7 @@ Kärkkäinen, K., & Joo, J. (2019). FairFace: Face Attribute Dataset for Balance
 - Download or Clone this repo
 - Install Dependencies
    1. Please follow the [Pytorch's official documentation](https://pytorch.org/get-started/locally/) to install Pytorch
-   2. Please also install dlib, if you have pip installed on your system. Simply type the following command on your terminal.
+   2. Please also install dlib, if you have pip installed on your system. Simply type the following command on your terminal. Hint: the installation fails if you do not have CMake installed. To install it on Ubuntu run `sudo apt-get install cmake`.
 
    ```
    pip install dlib
